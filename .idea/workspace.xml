@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95b6222a-af4f-4114-af89-7bb4f75165e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="95b6222a-af4f-4114-af89-7bb4f75165e2" name="Default Changelist" comment="add Hello World and merge Readme">
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/rutmiit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/rutmiit/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SAVE_CHANGES_POLICY" value="STASH" />
   </component>
   <component name="ProjectId" id="1sfXVt3pa1Vzh3klevwVuIDkD94" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -106,11 +105,26 @@
       <option name="project" value="LOCAL" />
       <updated>1621264796848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init&#10;&#10;&#10;add .gitignore file and Java default console files">
+      <created>1621265668926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621265668926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Hello World and merge Readme">
+      <created>1621265810978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621265810978</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init&#10;&#10;&#10;add .gitignore file and Java default console files" />
-    <option name="LAST_COMMIT_MESSAGE" value="init&#10;&#10;&#10;add .gitignore file and Java default console files" />
+    <MESSAGE value="add Hello World and merge Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Hello World and merge Readme" />
   </component>
 </project>
